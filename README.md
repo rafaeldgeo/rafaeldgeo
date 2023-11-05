@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaeldgeo
 - 👀 I'm interested in Developing web map applications
-- 🌱 I’m currently learning HTML, CSS, Bootstrap 5, Javascript, Node.js
+- 🌱 I’m currently learning HTML, CSS, Bootstrap 5, Javascript, Web Components, Node.js
 - 💞️ I’m looking a new way for my career
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/rafael-dias-de-almeida-devmap/)
 
