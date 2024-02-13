@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rafaeldgeo
+- 👋 Hi, I’m Rafael. I'm geography, geoprocessamento specialist.
 - 👀 I'm interested in Developing web map applications
-- 🌱 I’m currently learning HTML, CSS, Bootstrap 5, Javascript, Web Components, Node.js
+- :bulb: I know HTML5, CSS, Javascript, Bootstrap 5
+- 🌱 I’m currently learning Web Components, Lit Library, React Library 
 - 💞️ I’m looking a new way for my career
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/rafael-dias-de-almeida-devmap/)
 
