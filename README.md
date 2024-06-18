@@ -16,3 +16,5 @@ Lit Library | React Library | Git | npm
 
 ### Next Studies :telescope:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
+
+Node.js | MangoDB | PostgreSQL
