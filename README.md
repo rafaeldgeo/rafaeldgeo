@@ -4,7 +4,7 @@ I'm a Geographer, specialist in geoprocessing, passionate about technology, desi
 
 > I'm currently in a career transition to the IT area as a web application developer. My goal is to combine my knowledge and experience in geotechnologies in the implementation of WebGis solutions, such as mapping, routing, geomarketing, among others...
 
-## My Skills :wrench:
+# My Skills :wrench:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github)](https://skillicons.dev)
 
 HTML | CSS | JavaScript | Bootstrap 5 | Visual Studio Code | GitHub
