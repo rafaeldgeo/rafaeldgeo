@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Rafael. I'm geography, geoprocessamento specialist.
-- 👀 I'm interested in Developing web map applications
-- :bulb: I know HTML5, CSS, Javascript, Bootstrap 5
-- 🌱 I’m currently learning Web Components, Lit Library, React Library 
-- 💞️ I’m looking a new way for my career
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/rafael-dias-de-almeida-devmap/)
+# Hi! I’m Rafael :thumbsup:
 
-<!---
-rafaeldgeo/rafaeldgeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Geographer, specialist in geoprocessing, passionate about technology, design and business. Constantly learning, curious, methodical and creative. I believe that data should guide decisions and solutions need to be created with the user experience in mind.
+
+> I'm currently in a career transition to the IT area as a web application developer. My goal is to combine my knowledge and experience in geotechnologies in the implementation of WebGis solutions, such as mapping, routing, geomarketing, among others...
+
+## My Skills :wrench:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+HTML | CSS | JavaScript | Bootstrap 5
+
+## Currently learning :books:
+[![My Skills](https://skillicons.dev/icons?i=lit,react)](https://skillicons.dev)
+
+Lit Library | React Library
