@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | Bootstrap 5 | Visual Studio Code | GitHub
 
 Lit Library | React Library | Git | npm
 
-### Next Studies :telescope:
+### I'll study :telescope:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
 
 Node.js | MangoDB | PostgreSQL
