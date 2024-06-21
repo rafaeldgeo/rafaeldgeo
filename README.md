@@ -10,7 +10,7 @@ I'm a Geographer, specialist in geoprocessing, passionate about technology, desi
 HTML | CSS | JavaScript | Bootstrap 5 | Visual Studio Code | GitHub | Figma
 
 ## Currently learning :books:
-[![My Skills](https://skillicons.dev/icons?i=lit,react,git,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lit,react,git,npm,ubuntu)](https://skillicons.dev)
 
 Lit Library | React Library | Git | npm
 
