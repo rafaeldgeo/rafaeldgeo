@@ -9,12 +9,12 @@ I'm a Geographer, specialist in geoprocessing, passionate about technology, desi
 
 HTML | CSS | JavaScript | Bootstrap 5 | Visual Studio Code | GitHub | Figma
 
-## Currently learning :books:
+##  Learning currently :books  :
 [![My Skills](https://skillicons.dev/icons?i=lit,react,npm,git,vercel,ubuntu)](https://skillicons.dev)
 
 Lit Library | React Library | npm | Git | Vercel | Ubuntu
 
-### I'll study :telescope:
+### Next studies :telescope:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
 
 Node.js | MangoDB | PostgreSQL
