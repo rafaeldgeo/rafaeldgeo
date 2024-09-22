@@ -5,9 +5,15 @@ I'm a Geographer, specialist in geoprocessing, passionate about technology, desi
 > I'm currently in a career transition to the IT area as a web application developer. My goal is to combine my knowledge and experience in geotechnologies in the implementation of WebGis solutions, such as mapping, routing, geomarketing, among others...
 
 # My Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-HTML | CSS | JavaScript | Bootstrap 5 | Visual Studio Code | GitHub | Figma
+HTML | CSS | JavaScript | Bootstrap 5
+
+**Development tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+
+Visual Studio Code | GitHub | Figma
 
 ##  Learning 
 [![My Skills](https://skillicons.dev/icons?i=lit,react,npm,git,vercel,ubuntu)](https://skillicons.dev)
