@@ -16,9 +16,9 @@ HTML | CSS | JavaScript | Bootstrap 5
 Visual Studio Code | GitHub | Figma
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=lit,react,npm,git,vercel,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lit,react,npm,git,vercel,ubuntu,sass)](https://skillicons.dev)
 
-Lit Library | React Library | npm | Git | Vercel | Ubuntu
+Lit Library | React Library | npm | Git | Vercel | Ubuntu | SASS
 
 ### Next studies 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
