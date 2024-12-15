@@ -18,7 +18,7 @@ Visual Studio Code | GitHub | Figma
 ##  Learning 
 [![My Skills](https://skillicons.dev/icons?i=lit,react,nextjs,npm,git,vercel,ubuntu,sass)](https://skillicons.dev)
 
-Lit Library | React Library | npm | Git | Vercel | Ubuntu | SASS
+Lit Library | React Library | Next.js | npm | Git | Vercel | Ubuntu | SASS
 
 ### Next studies 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
