@@ -11,14 +11,14 @@ HTML | CSS | JavaScript | Bootstrap 5
 
 **Development tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,figma)](https://skillicons.dev)
 
-Visual Studio Code | GitHub | Figma
+Visual Studio Code | Git | GitHub | Vercel | Figma
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=lit,react,nextjs,npm,git,vercel,ubuntu,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lit,react,nextjs,npm,ubuntu,sass)](https://skillicons.dev)
 
-Lit Library | React Library | Next.js | npm | Git | Vercel | Ubuntu | SASS
+Lit Library | React Library | Next.js | npm | Ubuntu | SASS
 
 ### Next studies 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
