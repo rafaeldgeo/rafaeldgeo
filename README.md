@@ -16,11 +16,11 @@ HTML | CSS | JavaScript | Bootstrap 5
 Visual Studio Code | Git | GitHub | Vercel | Figma
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=lit,react,nextjs,npm,ubuntu,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,lit,react,nextjs,npm,ubuntu,sass)](https://skillicons.dev)
 
-Lit Library | React Library | Next.js | npm | Ubuntu | SASS
+Node.js | Lit Library | React Library | Next.js | npm | Ubuntu | SASS
 
 ### Next studies 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
-Node.js | MangoDB | PostgreSQL
+MangoDB | PostgreSQL
