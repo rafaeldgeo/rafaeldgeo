@@ -5,20 +5,20 @@ I'm a Geographer, specialist in geoprocessing, passionate about technology, desi
 > I'm currently in a career transition to the IT area as a web application developer. My goal is to combine my knowledge and experience in geotechnologies in the implementation of WebGis solutions, such as mapping, routing, geomarketing, among others...
 
 # My Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js)](https://skillicons.dev)
 
-HTML | CSS | JavaScript | Bootstrap 5
+HTML | CSS | SASS | Bootstrap 5 | JavaScript 
 
 **Development tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,npm,git,github,vercel,figma)](https://skillicons.dev)
 
-Visual Studio Code | Git | GitHub | Vercel | Figma
+Visual Studio Code | npm | Git | GitHub | Vercel | Figma
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,lit,react,nextjs,npm,ubuntu,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,lit,react,nextjs,ubuntu)](https://skillicons.dev)
 
-Node.js | Lit Library | React Library | Next.js | npm | Ubuntu | SASS
+Node.js | Lit Library | React Library | Next.js | Ubuntu
 
 ### Next studies 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
