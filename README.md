@@ -24,3 +24,6 @@ Node.js | Express.js | Lit Library | React Library | Next.js | Ubuntu
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 MangoDB | PostgreSQL
+
+#### Maybe study
+Tailwind CSS | Styled Components | Storybook | Radix UI
