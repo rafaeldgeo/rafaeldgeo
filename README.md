@@ -16,9 +16,9 @@ HTML | CSS | SASS | Bootstrap 5 | JavaScript
 VS Code | npm | Git | GitHub | Vercel | Figma
 
 ##  Learning 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,lit,react,nextjs,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,lit,react,nextjs,ubuntu,tailwind)](https://skillicons.dev)
 
-Node.js | Express.js | Lit Library | React Library | Next.js | Ubuntu
+Node.js | Express.js | Lit Library | React Library | Next.js | Ubuntu | Tailwind
 
 ### Next studies 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
