@@ -27,3 +27,7 @@ MangoDB | PostgreSQL
 
 #### Maybe study
 Tailwind CSS | Styled Components | Storybook | Radix UI
+
+# Freelance projects
+
+🌐 Single Page Static Website [Exacta Contabilidade Empresarial](https://www.exactacontabilidade.com.br/):link: :triangular_ruler: [Layouts Figma](https://www.figma.com/design/ytyMMvGAX9Nv8yD14vUEVo/exacta-contabilidade?node-id=7-2&p=f&t=6wjJCMO3VEQDpet8-0):link: | 2025 Oct
