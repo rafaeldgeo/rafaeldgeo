@@ -26,7 +26,7 @@ Node.js | Express.js | Lit Library | React Library | Next.js | Ubuntu | Tailwind
 MangoDB | PostgreSQL
 
 #### Maybe study
-Tailwind CSS | Styled Components | Storybook | Radix UI
+Styled Components | Storybook | Radix UI
 
 # Freelance projects
 
